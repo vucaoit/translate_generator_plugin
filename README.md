@@ -16,8 +16,8 @@ Translator Plugin
 * Update setting in IDE
 <img src="https://github.com/vucaoit/translate_generator_plugin/blob/master/images/step2.png" width="500" title="hover text">
 * Update your code
-> [!CAUTION]
-> In order to detect a line, you need to add "//InsertHere" in your code.
+  > [!CAUTION]
+  > In order to detect a line, you need to add "//InsertHere" in your code.
 <img src="https://github.com/vucaoit/translate_generator_plugin/blob/master/images/step3_1.png" width="350" title="hover text">
 <img src="https://github.com/vucaoit/translate_generator_plugin/blob/master/images/step3_2.png" width="350" title="hover text">
 <img src="https://github.com/vucaoit/translate_generator_plugin/blob/master/images/step3_3.png" width="350" title="hover text">
